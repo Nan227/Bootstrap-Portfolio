@@ -1,6 +1,8 @@
-# Bootstrap-Portfolio
+# Bootstrap-Portfolio 
 
- This project is show how to build a portfolio web page by using Bootstrap
+# Piyaporn Puangprasert
+
+ I am a new full stack web developer in New Jersey. I have experience in web development, frontend design, learning backend design. I have experienced in an Environmental Science laboratory and some background in health care fields. The problem-solving aspect of programming is my challenge that is why I love the growing tech industry.
 
 # Screenshot
 
