@@ -1,6 +1,6 @@
 # Bootstrap-Portfolio 
 
-This is a HTML portfolio of me (Piyaporn Puangprasert)
+This is a HTML portfolio of myself. I had learned how to use HTML and CSS on my portfolio. 
 
 
 # Screenshot
